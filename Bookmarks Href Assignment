@@ -1,0 +1,17 @@
+<body>
+  <div id="title">
+    <h1>Fausto's Bookmarks<h1>
+  </div> 
+      
+  <div id="description">    
+      <p>This is a list of my favorite websites!</p>
+  </div> 
+      
+  <div id="site-list">
+    <ul>
+      <li> <a href="https://www.youtube.com/" target="_blank">YouTube</a> </li>  
+      <li> <a href="https://www.walmart.com/" target="_blank">Walmart</a> </li>
+      <li> <a href="https://www.coursera.org/" target="_blank">Coursera</a> </li>
+    </ul> 
+  </div>  
+</body> 
